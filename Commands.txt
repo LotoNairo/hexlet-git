@@ -1,0 +1,4 @@
+# Выполняем инициализацию
+(Команда git init создает репозиторий — директорию .git, которая содержит все необходимые для работы git файлы.)
+hexlet-git$ git init
+Initialized empty Git repository in /private/tmp/hexlet-git/.git/
